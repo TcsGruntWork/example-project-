@@ -1,2 +1,2 @@
-# example project 
- This is my example project
+# Example Project for github.
+This is my example project.
